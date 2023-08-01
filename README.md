@@ -30,7 +30,7 @@ contribuidor do cofre do código ártico | ![contribuidor do cofre do código á
 Patrocinador público| ![Distintivo de Conquista do Patrocinador do GitHub](/images/public-sponsor-default.png) | ✔️ | Patrocínio de trabalho de código aberto via [Patrocinadores do GitHub](https://github.com/sponsors)
 Colaborador Mars 2020 | ![Distintivo de Conquista do Colaborador do Helicóptero Mars 2020](/images/mars-2020-contributor-default.png) | ❌ | Código contribuído para repositórios usados no [Missão de Helicóptero Mars 2020](https://github.com/readme/nasa-ingenuity-helicopter)
 
-## Tiers
+## Níveis
 
 Algumas conquistas não têm apenas a versão base, mas também níveis.
 
@@ -50,7 +50,7 @@ Puxe Tubarão x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images
 Puxe Tubarão x3 | Prata 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 solicitações pull mescladas
 Puxe Tubarão x4 | Ouro🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 solicitações de pull mescladas
 
-## Official list
+## Lista Oficial
 
 Existe ~~is~~ uma lista oficial disponível no GitHub Docs em
 <https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile> ([link para a versão arquivadan](https://web.archive.org/web/20220531023858/https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)).  
@@ -68,9 +68,9 @@ Para o melhor de nosso conhecimento:
 - [cérebro da galáxia](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
-### Tier labels
+### rótulos de nível
 
-Each tier has a label associated which includes a color.
+Cada camada tem um rótulo associado que inclui uma cor.
 
 | Camada | Etiqueta | Amostra | Hexadecimal | Visuais |
 | --- | --- | --- | --- | --- |
