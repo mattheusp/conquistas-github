@@ -2,7 +2,7 @@
 
 Uma coleção listando todas as Conquistas disponíveis no perfil do GitHub.
 
-Após o lançamento do primeiro Mars Helicopter, [Criatividade](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) a nova seção Conquistas:
+Após o lançamento do primeiro Mars Helicopter, [Criatividade](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [anunciado](https://github.blog/2021-04-19-open-source-goes-to-mars/) a nova seção Conquistas:
 
 > Também estamos aproveitando esta oportunidade para introduzir uma nova seção de Conquistas no perfil do GitHub. No momento, as conquistas incluem o distintivo Missão de Helicóptero Mars 2020, o [Cofre do Código Ártico](https://archiveprogram.github.com/arctic-vault/) distintivo e um distintivo para patrocinar o trabalho de código aberto via [GitHub Sponsors](https://github.com/sponsors).
 
@@ -11,7 +11,7 @@ Este repositório tenta listá-los todos.
 
 Não gosta das Conquistas? [Aqui](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements)é como desativá-los. [Link direto para a configuração para sua conveniência](https://github.com/settings/profile#profile-settings-heading).
 
-## Achievements
+## Conquistas
 
 | Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
