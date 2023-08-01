@@ -15,8 +15,8 @@ Não gosta das Conquistas? [Aqui](https://docs.github.com/account-and-profile/se
 
 | Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
-Coração na sua manga (Coração na sua manga) | ![Coração na sua manga Distintivo](/images/heart-on-your-sleeve-default.png) | 🔜 (Sendo testado) |Reaja a algo no GitHub com um emoji ❤️
-Open Sourcer (código aberto) | ![Open Sourcer Distintivo](/images/open-sourcerer-default.png) | 🔜 (Sendo testado) | O usuário teve PRs mesclados em vários repositórios públicos
+Coração na sua manga (Heart On Your Sleeve) | ![Coração na sua manga Distintivo](/images/heart-on-your-sleeve-default.png) | 🔜 (Sendo testado) |Reaja a algo no GitHub com um emoji ❤️
+Código Aberto (Open Sourcer) | ![Open Sourcer Distintivo](/images/open-sourcerer-default.png) | 🔜 (Sendo testado) | O usuário teve PRs mesclados em vários repositórios públicos
 ||| <!-- this empty row is intentional to separate -->
 Par Extraordinário (Pair Extraordinaire )| ![Par Extraordinário Distintivo](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada
 Desenho rápido (Quickdraw) | ![Desenho rápido Badge Distintivo](/images/quickdraw-default.png) | ✔️ | Encerrou um problema ou um pull request em até 5 minutos após a abertura
