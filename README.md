@@ -1,135 +1,135 @@
 # GitHub Profile Achievements 🏆
 
-A collection listing all Achievements available on the GitHub profile.
+Uma coleção listando todas as Conquistas disponíveis no perfil do GitHub.
 
-Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) the new Achievements section:
+Após o lançamento do primeiro Mars Helicopter, [Criatividade](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) a nova seção Conquistas:
 
-> We are also using this opportunity to introduce a new Achievements section to the GitHub profile. Right now, Achievements include the Mars 2020 Helicopter Mission badge, the [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/) badge, and a badge for sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors).
+> Também estamos aproveitando esta oportunidade para introduzir uma nova seção de Conquistas no perfil do GitHub. No momento, as conquistas incluem o distintivo Missão de Helicóptero Mars 2020, o [Cofre do Código Ártico](https://archiveprogram.github.com/arctic-vault/) distintivo e um distintivo para patrocinar o trabalho de código aberto via [GitHub Sponsors](https://github.com/sponsors).
 
-This repository attempts to list them all.
+Este repositório tenta listá-los todos.
+**2022-06-09:** GitHub [anunciou mais Conquistas](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), mas sem critérios específicos. Se você vir algo não listado aqui ou estiver incorreto, abra um problema :)
 
-**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here or is incorrect, please open an issue :)
-
-Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) is how to disable them. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
+Don't like the Achievements? [Aqui](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements)é como desativá-los. [Link direto para a configuração para sua conveniência](https://github.com/settings/profile#profile-settings-heading).
 
 ## Achievements
 
-| Title | Badge | Earnable? | Earned by |
+| Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | 🔜 (Being tested) | React to something on GitHub with a ❤️ emoji 
-Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | 🔜 (Being tested) | User had PRs merged in multiple public repositories 
+Coração na sua manga (Coração na sua manga) | ![Coração na sua manga Distintivo](/images/heart-on-your-sleeve-default.png) | 🔜 (Sendo testado) |Reaja a algo no GitHub com um emoji ❤️
+Open Sourcer (código aberto) | ![Open Sourcer Distintivo](/images/open-sourcerer-default.png) | 🔜 (Sendo testado) | O usuário teve PRs mesclados em vários repositórios públicos
 ||| <!-- this empty row is intentional to separate -->
-Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
-Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
-Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
+Par Extraordinário (Pair Extraordinaire )| ![Par Extraordinário Distintivo](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada
+Desenho rápido (Quickdraw) | ![Desenho rápido Badge Distintivo](/images/quickdraw-default.png) | ✔️ | Encerrou um problema ou um pull request em até 5 minutos após a abertura
+Starstruck | ![Starstruck Distintivo](/images/starstruck-default.png) | ✔️ | Criou um repositório que tem 16 estrelas
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged own pull request without code review
+cérebro da galáxia (Galaxy Brain) | ![cérebro da galáxia Distintivo](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
+Puxar Insígnia de Tubarão (Pull Shark) | ![Puxar Insígnia de Tubarão Distintivo](/images/pull-shark-default.png) | ✔️ | 2 solicitações pull mescladas
+YOLO | ![YOLO Distintivo](/images/yolo-default.png) | ✔️ | Mesclar a própria solicitação pull sem revisão de código
 ||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+contribuidor do cofre do código ártico | ![contribuidor do cofre do código ártico Distintivo](/images/arctic-code-vault-contributor-default.png) | ❌ | Código contribuído para repositórios no [Programa de Arquivo GitHub 2020](https://archiveprogram.github.com/)
+Patrocinador público| ![Distintivo de Conquista do Patrocinador do GitHub](/images/public-sponsor-default.png) | ✔️ | Patrocínio de trabalho de código aberto via [Patrocinadores do GitHub](https://github.com/sponsors)
+Colaborador Mars 2020 | ![Distintivo de Conquista do Colaborador do Helicóptero Mars 2020](/images/mars-2020-contributor-default.png) | ❌ | Código contribuído para repositórios usados no [Missão de Helicóptero Mars 2020](https://github.com/readme/nasa-ingenuity-helicopter)
 
 ## Tiers
 
-Some Achievements not only have the base version, but also tiers.
+Algumas conquistas não têm apenas a versão base, mas também níveis.
 
-| Title | Tier | Badge | Earned by |
+| Título | Camada | Emblema | Ganhou por |
 | --- | --- | --- | --- |
-Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored in 10 merged pull requests
-Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored in 24 merged pull requests
-Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored in 48 merged pull requests
-Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
-Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
-Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
+Par Extraordinário x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coautoria em 10 solicitações pull mescladas
+Par Extraordinário x3 | Prata 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coautoria em 24 solicitações pull mescladas
+Par Extraordinário x4 | Ouro🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coautoria em 48 solicitações pull mescladas
+Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Criou um repositório com 128 estrelas
+Starstruck x3 | Prata 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Criou um repositório que tem 512 estrelas
+Starstruck x4 | Ouro🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Criou um repositório que tem 4096 estrelas
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
-Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
-Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
-Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
+Galáxia Cérebro x2 | Bronze🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 respostas aceitas
+Galáxia Cérebro x3 | Prata 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 respostas aceitas
+Galáxia Cérebro x4 | Ouro🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 respostas aceitas
+Puxe Tubarão x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 solicitações pull mescladas
+Puxe Tubarão x3 | Prata 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 solicitações pull mescladas
+Puxe Tubarão x4 | Ouro🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 solicitações de pull mescladas
 
 ## Official list
 
-There ~~is~~ was an official list available in the GitHub Docs at  
-<https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile> ([link to the archived version](https://web.archive.org/web/20220531023858/https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)).  
-There is still a section which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
+Existe ~~is~~ uma lista oficial disponível no GitHub Docs em
+<https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile> ([link para a versão arquivadan](https://web.archive.org/web/20220531023858/https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)).  
+Ainda há uma seção que inclui detalhes sobre como as insígnias foram/são concedidas, por ex. qual[repositórios e versões qualificados para o Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
 
-~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an official list again, this is it.
+~~Considere este repositório um espelho, talvez no futuro com propósito histórico.~~ A menos que haja uma lista oficial novamente, é isso.
 
-## Details
+## Detalhes
 
-### Specifics on how to achieve
+### Detalhes de como conseguir
 
-For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
-To the best of our knowledge:
+Por enquanto, consulte as [discussões](https://github.com/Schweinepriester/github-profile-achievements/discussions).
+Para o melhor de nosso conhecimento:
 
-- [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
+- [cérebro da galáxia](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
 ### Tier labels
 
 Each tier has a label associated which includes a color.
 
-| Tier | Label | Sample | Hex | Visual |
+| Camada | Etiqueta | Amostra | Hexadecimal | Visuais |
 | --- | --- | --- | --- | --- |
 Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
-Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+Prata 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+Ouro 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
-### 100 % samples
+### 100% amostras
 
-[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialog, both light and dark mode.  
-See them live, including the animation some have, for example here:
+[Aqui](/images/captured/complete) são capturas de tela de todas as Conquistas em 100% desbloqueadas, conforme visto na íntegra na caixa de diálogo, tanto no modo claro quanto no escuro.
+Veja-os ao vivo, incluindo a animação que alguns têm, por exemplo aqui:
 
-| Title | Sample |
+| Título | Amostra |
 | --- | --- |
-Pair Extraordinaire | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
-Quickdraw | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
-Starstruck | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
+Par Extraordinário| [Amostra ao vivo 100% desbloqueada por @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
+Quickdraw | [Amostra ao vivo 100% desbloqueada por @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
+Starstruck | [Amostra ao vivo 100% desbloqueada por @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
-Pull Shark | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
-YOLO | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
+cérebro da galáxia | [Amostra ao vivo 100% desbloqueada por @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
+puxar tubarão | [Amostra ao vivo 100% desbloqueada por @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
+YOLO | [Amostra ao vivo 100% desbloqueada por @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
 ||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
-Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
-Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
+Colaborador do Arctic Code Vault | [Amostra ao vivo 100% desbloqueada por @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
+Patrocinador público | [Amostra ao vivo 100% desbloqueada por @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
+Colaborador Mars 2020 | [Amostra ao vivo 100% desbloqueada por @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 
-Do you know a user with all Achievements with highest tier at the same time? Let me know!
+Você conhece um usuário com todas as Conquistas com o nível mais alto ao mesmo tempo? Avise!
 
-### Variants
+### Variantes
 
-[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
+[Aqui](/images/variants) são as variantes de emblemas, incluindo o [Octocat :octocat:](https://github.com/logos) baseada em [a configuração](https://github.com/settings/appearance#emoji-heading) para o [tom de pele emoji](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
 
-## Highlights
+## Destaques
 
-The Highlights section below the Achievements including the corresponding badges is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+A seção Destaques abaixo das Conquistas, incluindo os distintivos correspondentes, está atualmente [melhor documentada nos documentos oficiais do GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 ## Previous versions
 
 ### 2021-04-19 - 2022-06-09
 
-From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
+PAra o [comece com Ingenuity em 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) até [adições em 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
 
 ```diff
-- GitHub Sponsor
-+ Public Sponsor
-- Mars 2020 Helicopter Contributor
-+ Mars 2020 Contributor
+- Patrocinador do GitHub
++ Patrocínio Público
+- Colaborador do Helicóptero Mars 2020
++ Colaborador Mars 2020
 ```
 
 Here are the old designs and names:
 
-| Title | Badge |
+| Título | Emblema |
 | --- | --- |
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png)
+contribuidor do cofre do código ártico | ![contribuidor do cofre do código ártico Distintivo](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png)
 GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
+Colaborador do Helicóptero Mars 2020 | ![Conquista do colaborador de helicóptero Mars 2020 distintivo](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
 
 ## See also
 
-* [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) for a laugh about the Achievements
-* [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) same as this collection, but different ;)
+* [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements)para saber mais sobre as Conquistas
+* [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) 
+igual a esta coleção, mas diferente ;)
