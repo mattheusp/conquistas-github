@@ -1,4 +1,4 @@
-# GitHub Profile Achievements 🏆
+# Conquistas do perfil do GitHub🏆
 
 Uma coleção listando todas as Conquistas disponíveis no perfil do GitHub.
 
@@ -9,7 +9,7 @@ Após o lançamento do primeiro Mars Helicopter, [Criatividade](https://en.wikip
 Este repositório tenta listá-los todos.
 **2022-06-09:** GitHub [anunciou mais Conquistas](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), mas sem critérios específicos. Se você vir algo não listado aqui ou estiver incorreto, abra um problema :)
 
-Don't like the Achievements? [Aqui](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements)é como desativá-los. [Link direto para a configuração para sua conveniência](https://github.com/settings/profile#profile-settings-heading).
+Não gosta das Conquistas? [Aqui](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements)é como desativá-los. [Link direto para a configuração para sua conveniência](https://github.com/settings/profile#profile-settings-heading).
 
 ## Achievements
 
